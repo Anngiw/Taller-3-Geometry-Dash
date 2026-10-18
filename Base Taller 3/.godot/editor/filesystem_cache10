@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1792268903
+bloques.gd::GDScript::2593890183484998019::1792264706::0::1::::<>Node2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::5384683417404790329::1792264706::1792264799::1::::<><><>0<>0<>1668daca20bb7d180fb3dc2d3bebf7a3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+jugador.gd::GDScript::7955834613869189340::1792264706::0::1::::<>CharacterBody2D<><>0<>0<><>::
+jugador.tscn::PackedScene::-1::1792264706::0::1::::<><><>0<>0<><>::res://jugador.gd<>res://assets/cubo_hoja.png
+LEEME.txt::TextFile::-1::1792264706::0::1::::<><><>0<>0<><>::
+mundo.gd::GDScript::6681904442779027642::1792264706::0::1::::<>Node2D<><>0<>0<><>::
+mundo.tscn::PackedScene::-1::1792264706::0::1::::<><><>0<>0<><>::res://mundo.gd<>res://jugador.tscn
+::res://assets/::1792264799
+cubo_hoja.png::CompressedTexture2D::6484841359476618974::1792264706::1792264799::1::::<><><>0<>0<>12534be7faf3df80633a0976f6ae8f53<>res://.godot/imported/cubo_hoja.png-3e729bd703a037cb079670c447cb34ca.ctex::
+explosion.wav::AudioStreamWAV::3460717371728946309::1792264706::1792264799::1::::<><><>0<>0<>4bc2137b192518715b3996d93aac1bd1<>res://.godot/imported/explosion.wav-de00f2d0ef23a85998326fdf0ffd33ab.sample::
+musica.wav::AudioStreamWAV::8959397104655783724::1792264706::1792264799::1::::<><><>0<>0<>1bb9104e1620432a21c9bc22409bd25e<>res://.godot/imported/musica.wav-a4afd744636688ab4f47b01e1ca6b3da.sample::
